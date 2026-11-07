@@ -1,11 +1,11 @@
 {
- "v": 29900894,
- "zip": "myapp-update-29900894.zip",
- "sha256": "ab69f8c5d1a08e7b81750c2f2e00f125b4309863ecacfb3e3821c8965e0da7e5",
- "sig": "40a93f9aa1f3dc7db8ef4ae5d2a4066af62e9b29c3222c3a007289146eb3da704cda3daf2fa7eb956f4dcfded5716640589d61cb692a5fb1000721238bddeb0d",
- "size": 551240,
+ "v": 29900898,
+ "zip": "myapp-update-29900898.zip",
+ "sha256": "6349a77bf0c96fdc96c360983b04d15d102053c03a7adf961ae9919e2974b4e6",
+ "sig": "f5f2d6ff548ea00aa1bf6a4de9256890632b21922b199ceb7b85d7f5e6e2bd2cd7f55b6d9fe34aac745ea37c62e4d4ac419b85c9e04e3a3c9450aa91c9cd3b09",
+ "size": 552325,
  "minApk": 0,
- "notes": "Fixed: this semester shows only your current courses",
+ "notes": "Admin: new-install notifications",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
