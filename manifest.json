@@ -1,0 +1,10 @@
+{
+ "v": 29900872,
+ "zip": "myapp-update-29900872.zip",
+ "sha256": "7d4b447ecb9c062c3e43df62c22a40e7b842e80eeffb9397caef6fce0c8a7d88",
+ "sig": "45e5e8fa80471f4d700eab4a24314888e1bc20dd69354f7c67519309d2e5508174906f479210838c6ff2bfc90c029607dd8446b6e68a8b7db64f43104c50a00f",
+ "size": 550484,
+ "minApk": 0,
+ "notes": "New version",
+ "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk"
+}
