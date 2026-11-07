@@ -1,11 +1,11 @@
 {
- "v": 29900911,
- "zip": "myapp-update-29900911.zip",
- "sha256": "84c474616bb70a62a67ce0fdaec89c4743ed0e4cd45fccb8b125cf0de0144700",
- "sig": "d7477ea8e074c3eec1cab072c55db89cc7eb7da9833bd9b5dc4abba70a43f8a4f8dd64869598ad5dbd0168d782e713da3f36121cffdf9ded78013e7ff4af4000",
- "size": 553017,
+ "v": 29900915,
+ "zip": "myapp-update-29900915.zip",
+ "sha256": "2a12e56c5335b181accd5bdfb19fe96bf43dc008555aba82c9adc7f41d998067",
+ "sig": "2dd1ea345165120fbf84581aacb552f51a1123eda06d382519962491761993641692d05db4815e3b3c59ed13be885806654ac1e8f1f6ad1c43d3fbdd7023dc09",
+ "size": 553696,
  "minApk": 0,
- "notes": "Faster opening: no sync or update check while the app starts",
+ "notes": "New update button in Settings",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
