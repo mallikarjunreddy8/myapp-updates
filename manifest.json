@@ -1,11 +1,11 @@
 {
- "v": 29900921,
- "zip": "myapp-update-29900921.zip",
- "sha256": "0fb7fa732b95da27aee19cf521f2164e007bc078cc0937ca365fad544947da78",
- "sig": "e836104aaebc48e85aa78018b13715d4e440d09ede0e3cf8fb6b23ba200af71ae23db75f7f678db25d9b79ae4ed0aad2b01335c686b63cee7faab7a8a5f7d008",
+ "v": 29900924,
+ "zip": "myapp-update-29900924.zip",
+ "sha256": "86b04d27383705216a6670cd145f7679264572d953c041b07f7fe859b907b698",
+ "sig": "42a596b88f97f1ed0b9f5be76de0e88a8f2275aa852b9391da4dc4fd9845ca039108d3a92df45c0384f33dd1adfbbcb3a4e6e5034ba2eeaf6b870f63ee604802",
  "size": 554680,
  "minApk": 0,
- "notes": "Opens faster; Grades page fits on phones",
+ "notes": "New version",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
