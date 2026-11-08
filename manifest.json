@@ -1,8 +1,8 @@
 {
- "v": 29901980,
- "zip": "myapp-update-29901980.zip",
- "sha256": "c33b2b7f4236a480648113bd7e523a86251d302d7a332c0cb2092115a5d8f245",
- "sig": "f2a14c5a2e438b0e9e09072ea91cdbcf61c3f4bbe986f2698a8d63f8beb8ee3672feda9fe3e668f8f1c3fbffb86a0c3f01216c32ee0a1f37d028a8e46740850e",
+ "v": 29901985,
+ "zip": "myapp-update-29901985.zip",
+ "sha256": "86395a7bebeebce6c6ff94238ae169d0d72228979ac409089a7b2fc3a8a20e18",
+ "sig": "8bfaba6a927c72057a91093aaa68becd458ececf740f3f3ec66a3f2aadc223e6e2b50b9f44591d236f19757239033a10a695aeabeee6ceb83dab443219e07d0d",
  "size": 579480,
  "minApk": 0,
  "notes": "New version",
