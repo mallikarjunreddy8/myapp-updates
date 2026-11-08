@@ -1,11 +1,11 @@
 {
- "v": 29901923,
- "zip": "myapp-update-29901923.zip",
- "sha256": "d4dc3a53fd635d36023ea328056f7bc44d686a2436086b8b70c6abf2ea5dc192",
- "sig": "94fe61ab982336093e43996014ba013073b3640d5d4a511b59b90497f390702ad515a728336140cdbd7ae79bbe6819f4a29dae92a98b4a6f96573e82695edb03",
- "size": 578760,
+ "v": 29901927,
+ "zip": "myapp-update-29901927.zip",
+ "sha256": "8628176df4ff50682eea384c22dc337073559c4e73e29b61f3de711a58098b72",
+ "sig": "731bdf76a03315701e206122710c2b2432a191ee3e7c05dd5d663bdb6cfb02541458469979a5b2dd694d30f9c10f9e0092b1e4a52c9970bb800a660628626900",
+ "size": 579122,
  "minApk": 0,
- "notes": "New version",
+ "notes": "Class page: keyboard no longer closes while typing",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
