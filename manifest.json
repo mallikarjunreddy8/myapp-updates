@@ -1,11 +1,11 @@
 {
- "v": 29901958,
- "zip": "myapp-update-29901958.zip",
- "sha256": "436e8b861127ea6b10b54e26bfc78bc940cf01d1adc6e4dbe4a890643b2543f1",
- "sig": "a505b06cdeb44c6a689e9ca150a266eb89b8fc9fe0b9ee41264ed91b114668dbb2d29a050c9c955e5ccb78556a04089df041660a5bae2c1517e8451870dc9707",
- "size": 579231,
+ "v": 29901965,
+ "zip": "myapp-update-29901965.zip",
+ "sha256": "be5f48ba764ca6135b94100a607dece648b5a86c129278b5c5ec23bc99b64e2d",
+ "sig": "b94a892b424b410388fa3947a3cf5d501a18721b33783eaef64f818542124f08d3b60b94c0f0ef98e481df490b592a0fdfb5540213d1d49aa0882d791e961601",
+ "size": 579336,
  "minApk": 0,
- "notes": "Fingerprint unlock fixed (no more re-locking)",
+ "notes": "New version",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
