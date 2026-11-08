@@ -1,11 +1,11 @@
 {
- "v": 29901727,
- "zip": "myapp-update-29901727.zip",
- "sha256": "bdcaa61ce2a0cf02afb5e2db7ab4c3fed6bfe805669652cec3878ed1be6d97ac",
- "sig": "747863275ef4453e788b77fdd7f793a4af33af5bda155be47501b62a90b9201395fa28d04c71de2a9f95bd9cb7de41f0ce13dadf8d2a6616162f86800746d201",
- "size": 557677,
+ "v": 29901740,
+ "zip": "myapp-update-29901740.zip",
+ "sha256": "99fc99b3088db4ee9de95d6086ec78665fb5e263613d018234934e99556c1774",
+ "sig": "5235531d478891c6f483772049b77250d3fcbb619bfea75438cc40aa34c4acd62c705e49e63377ae9df16980cfaf7856cc7a51dd3b19292eb8dccb4534e29e09",
+ "size": 563067,
  "minApk": 0,
- "notes": "App lock: number keypad always",
+ "notes": "Admin: calendar & exams for everyone; Updates and Admin icons on home",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
