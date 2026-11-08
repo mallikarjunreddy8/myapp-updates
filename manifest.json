@@ -1,11 +1,11 @@
 {
- "v": 29901747,
- "zip": "myapp-update-29901747.zip",
- "sha256": "340129476e75b7b28f4c5d9748ce2acdd78f6e9d500f82cc0285220f2330bb54",
- "sig": "09f62fa2fb20673f6ff6aae07534da42230c6fa7840dccf395864daa5fdb9a243ff4579b93bcbedbf83f7b4afa46acdd9529152fdf6d1a6356ad2cdb0beef208",
- "size": 564918,
+ "v": 29901757,
+ "zip": "myapp-update-29901757.zip",
+ "sha256": "9a250cb28ad1d87135101191043a88b7956c177530e8963b006fa309316d3917",
+ "sig": "a38ce30403438218e1f28e7d7f1ca2c299c01d50df16b6c53cc68102ce36a73dca7dace2745e3fbe9742318d0a0e16791472d2a27dda3adc67d178c6556bed07",
+ "size": 567164,
  "minApk": 0,
- "notes": "Admin calendar: month view, tap a day for working/holiday, upload a calendar file",
+ "notes": "Admin: Add an exam form, timetable PDF viewer, Updates page",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
