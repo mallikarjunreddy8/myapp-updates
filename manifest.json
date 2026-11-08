@@ -1,11 +1,11 @@
 {
- "v": 29901927,
- "zip": "myapp-update-29901927.zip",
- "sha256": "8628176df4ff50682eea384c22dc337073559c4e73e29b61f3de711a58098b72",
- "sig": "731bdf76a03315701e206122710c2b2432a191ee3e7c05dd5d663bdb6cfb02541458469979a5b2dd694d30f9c10f9e0092b1e4a52c9970bb800a660628626900",
+ "v": 29901934,
+ "zip": "myapp-update-29901934.zip",
+ "sha256": "248512fa42eb6a2583f053a9b042c4313741cf971b911557070af9c21174fc50",
+ "sig": "cf5abe22caa0d042b1dec24adb6df5d632b1a74a2905aaac7a0581e52d7dc458886ea991e3b1cb7638369c3234872c47bfd39ce5b9bb4aebf6cbb67440bc9004",
  "size": 579122,
  "minApk": 0,
- "notes": "Class page: keyboard no longer closes while typing",
+ "notes": "New: Class notices + chat with CRs, CR sign-in (I'm a CR), Admin page (calendar, exams, CRs, installs), Today widget data, fingerprint lock, faster opening, fixes",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
