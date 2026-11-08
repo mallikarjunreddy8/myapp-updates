@@ -1,11 +1,11 @@
 {
- "v": 29901934,
- "zip": "myapp-update-29901934.zip",
- "sha256": "248512fa42eb6a2583f053a9b042c4313741cf971b911557070af9c21174fc50",
- "sig": "cf5abe22caa0d042b1dec24adb6df5d632b1a74a2905aaac7a0581e52d7dc458886ea991e3b1cb7638369c3234872c47bfd39ce5b9bb4aebf6cbb67440bc9004",
- "size": 579122,
+ "v": 29901958,
+ "zip": "myapp-update-29901958.zip",
+ "sha256": "436e8b861127ea6b10b54e26bfc78bc940cf01d1adc6e4dbe4a890643b2543f1",
+ "sig": "a505b06cdeb44c6a689e9ca150a266eb89b8fc9fe0b9ee41264ed91b114668dbb2d29a050c9c955e5ccb78556a04089df041660a5bae2c1517e8451870dc9707",
+ "size": 579231,
  "minApk": 0,
- "notes": "New: Class notices + chat with CRs, CR sign-in (I'm a CR), Admin page (calendar, exams, CRs, installs), Today widget data, fingerprint lock, faster opening, fixes",
+ "notes": "Fingerprint unlock fixed (no more re-locking)",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
