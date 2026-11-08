@@ -1,11 +1,11 @@
 {
- "v": 29902014,
- "zip": "myapp-update-29902014.zip",
- "sha256": "12905d43a076afc264897ae4af34911eea84e5ac2d34971a8701e275716f698d",
- "sig": "d79dfc27a8ec074ecaaa92d273a7666693cee6f952ec4bbf78233f31bd3414dc23bc13e87f4c210ad982cc9d383548d1f834285be9f7e96b6c6e529804751807",
- "size": 580637,
+ "v": 29902031,
+ "zip": "myapp-update-29902031.zip",
+ "sha256": "3390e5d3c95b4ed62fecffed9ed4db0ce91b5d60239f8a1eb1bdd8b602997ec6",
+ "sig": "6d55a368d6b9b5c79d240b84e3f2928597395398b01cb4ccf587b8ab359218e36fd2b23ad6230cd00be144d75eeb0a2e50c7fba8926ce36ad17b6ae7f0c69901",
+ "size": 581808,
  "minApk": 0,
- "notes": "AUMS and photo fetch by themselves and refresh daily; this semester shows only your real courses",
+ "notes": "All 10 courses this semester; AUMS grades/CGPA and photo fetch on phones with clear errors and a Fetch now button; class chat fixed",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
