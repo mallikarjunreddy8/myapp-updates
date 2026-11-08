@@ -1,11 +1,11 @@
 {
- "v": 29902040,
- "zip": "myapp-update-29902040.zip",
- "sha256": "84ab241b58a036f4bd46da13a5bd13e5452ced0b09ab0978e799c4e6e16faabb",
- "sig": "94187b4304e717b331ea315b3f61cd4baf90ed5f4c4e8658198bb41a4cf48a17076547f99cbacfbcb73ab1271f32989ea21b9a8ea4edc579489312f43bec790b",
- "size": 582349,
+ "v": 29902048,
+ "zip": "myapp-update-29902048.zip",
+ "sha256": "4382d80c38df706c585999176d035efd7a896280ec44fb69ba864e11ac659bea",
+ "sig": "15771f4956d402ab8b712a866a8fa57a6cb6002894a82314136e3686fb81aa2fc4ba5d4c14f601f05fc61b57810568f25ac2f16a292eadbbf8eb189dea3f5b03",
+ "size": 581841,
  "minApk": 0,
- "notes": "Marks now come from AUMS (max marks from myAmrita); courses and grades from AUMS; photo from myAmrita",
+ "notes": "Marks back to how the Admin app shows them; Students app matches Admin on every page",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
