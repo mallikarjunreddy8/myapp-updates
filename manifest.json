@@ -1,11 +1,11 @@
 {
- "v": 29901991,
- "zip": "myapp-update-29901991.zip",
- "sha256": "034c5ba59fce11120057cfdda355c6e871297b09abbc965e2496481ba08ffd38",
- "sig": "999091cce2a277ef07326f60a58122549a27f0e5a2be6aad2e2db3407e50ab20cde61fa94ddba134f6fd5668b633260afeee149eab7557d37faf21531a98e400",
- "size": 580179,
+ "v": 29902001,
+ "zip": "myapp-update-29902001.zip",
+ "sha256": "a6ea8a18d572fd2a5d048e0d4570bb72ad9af45042034d28caffb3eef9a58ad8",
+ "sig": "ec36f9153003d656ead45c8f820060b30589dcb3fdb9fd4df037ef52d0265e79452d7a7fd68bedb610633cdb8b47edad896b895c3f16b59df0167a60c2a22306",
+ "size": 580234,
  "minApk": 0,
- "notes": "Sign-up asks new students to set an app lock (or skip)",
+ "notes": "New version",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
