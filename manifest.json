@@ -1,11 +1,11 @@
 {
- "v": 29901744,
- "zip": "myapp-update-29901744.zip",
- "sha256": "00942753171b0e51a29f561261b9e2859092ef9b375b2072f55205f264b8cb97",
- "sig": "8cebd450a59ddc5499168b22c1784129f5c71fcca9218cac9e31fce86c2fb366c412eba010b879c89a4e6fdb8f2d4dc6eb9ed77c781f8328ff8fd81b8b904709",
- "size": 563656,
+ "v": 29901747,
+ "zip": "myapp-update-29901747.zip",
+ "sha256": "340129476e75b7b28f4c5d9748ce2acdd78f6e9d500f82cc0285220f2330bb54",
+ "sig": "09f62fa2fb20673f6ff6aae07534da42230c6fa7840dccf395864daa5fdb9a243ff4579b93bcbedbf83f7b4afa46acdd9529152fdf6d1a6356ad2cdb0beef208",
+ "size": 564918,
  "minApk": 0,
- "notes": "Admin: uploading an academic calendar can publish it to all devices",
+ "notes": "Admin calendar: month view, tap a day for working/holiday, upload a calendar file",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
