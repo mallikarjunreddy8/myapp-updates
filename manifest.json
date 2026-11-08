@@ -1,11 +1,11 @@
 {
- "v": 29901719,
- "zip": "myapp-update-29901719.zip",
- "sha256": "a41ee3b0b204cdab7ffbebf70eefd68f5283fab05b93af4a339091479c11b440",
- "sig": "617ce62b52a3b828a3d2c828012140d35a1329767401ef44ad6a69ef9f42b53518f463ceff28dcbc6b3503070428741bb1a4202dd9cae18c58dabefc823e4d02",
- "size": 557165,
+ "v": 29901724,
+ "zip": "myapp-update-29901724.zip",
+ "sha256": "cc10c638f9289fd0b94f495b142a85be75168fdcb4e284bd9a6470e6c1962631",
+ "sig": "a2766436f06c5b57f605d772bb1b3ae3a0c093276773576568da72f5697dcfa842875bb0a8bb6aa47396ebabaabc1e57d66c2899d6c556a1b4206242f5f98b0c",
+ "size": 557500,
  "minApk": 0,
- "notes": "App lock: your own password, on/off in Profile",
+ "notes": "App lock: numbers-only password",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
