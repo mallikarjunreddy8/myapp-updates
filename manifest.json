@@ -1,11 +1,12 @@
 {
- "v": 29901764,
- "zip": "myapp-update-29901764.zip",
- "sha256": "69a451d21eefe1b9e166e1bba72942adc5db6b7438c79eb887b7daa67fb29e6a",
- "sig": "63ab9f1161f4aa77eec81c801f16689427681806946d745833521bd33a73b8afec3770062e01eaeb1238cb974b91b7cfb6ed293c0c71c3ae3482c12761ea3708",
- "size": 568335,
+ "v": 29901797,
+ "zip": "myapp-update-29901797.zip",
+ "sha256": "a21de687e561004869d253662dda68a7ab678c8d133ca7cb8f903d2c90681d25",
+ "sig": "92e6cc910d70d29e9edd41700c37e7c7b91d9127bd4201b59a4119bdf955c1139df593292dca75a66f56ce26d95f529cc7eb198d6f292e4a23e5e1a943220106",
+ "size": 578241,
  "minApk": 0,
- "notes": "Admin calendar: tap a date to set working/holiday and its description; upload icon",
+ "notes": "New version",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
- "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
+ "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
+ "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
 }
