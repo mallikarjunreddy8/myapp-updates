@@ -1,11 +1,11 @@
 {
- "v": 29901740,
- "zip": "myapp-update-29901740.zip",
- "sha256": "99fc99b3088db4ee9de95d6086ec78665fb5e263613d018234934e99556c1774",
- "sig": "5235531d478891c6f483772049b77250d3fcbb619bfea75438cc40aa34c4acd62c705e49e63377ae9df16980cfaf7856cc7a51dd3b19292eb8dccb4534e29e09",
- "size": 563067,
+ "v": 29901744,
+ "zip": "myapp-update-29901744.zip",
+ "sha256": "00942753171b0e51a29f561261b9e2859092ef9b375b2072f55205f264b8cb97",
+ "sig": "8cebd450a59ddc5499168b22c1784129f5c71fcca9218cac9e31fce86c2fb366c412eba010b879c89a4e6fdb8f2d4dc6eb9ed77c781f8328ff8fd81b8b904709",
+ "size": 563656,
  "minApk": 0,
- "notes": "Admin: calendar & exams for everyone; Updates and Admin icons on home",
+ "notes": "Admin: uploading an academic calendar can publish it to all devices",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk"
 }
