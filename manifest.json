@@ -1,11 +1,11 @@
 {
- "v": 29901985,
- "zip": "myapp-update-29901985.zip",
- "sha256": "86395a7bebeebce6c6ff94238ae169d0d72228979ac409089a7b2fc3a8a20e18",
- "sig": "8bfaba6a927c72057a91093aaa68becd458ececf740f3f3ec66a3f2aadc223e6e2b50b9f44591d236f19757239033a10a695aeabeee6ceb83dab443219e07d0d",
- "size": 579480,
+ "v": 29901990,
+ "zip": "myapp-update-29901990.zip",
+ "sha256": "445ecc7387d5aa97f6eb33f17f3492a7c7f8e87dd8490004a6d3a5d3f2a79e45",
+ "sig": "af4a3571b87db6468dd3fd60cb0165b1d988e8dd635b0f3ef7c2f6bfef98052ca45ccb5be46ebbe37828b80083b1439f309245d3f6a1e020246e42aa90431d0c",
+ "size": 579665,
  "minApk": 0,
- "notes": "New version",
+ "notes": "Attendance calendar: all 7 periods in one row; app lock + fingerprint for every student (switch on in Profile)",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
