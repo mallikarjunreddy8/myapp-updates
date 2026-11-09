@@ -1,11 +1,11 @@
 {
- "v": 29902048,
- "zip": "myapp-update-29902048.zip",
- "sha256": "4382d80c38df706c585999176d035efd7a896280ec44fb69ba864e11ac659bea",
- "sig": "15771f4956d402ab8b712a866a8fa57a6cb6002894a82314136e3686fb81aa2fc4ba5d4c14f601f05fc61b57810568f25ac2f16a292eadbbf8eb189dea3f5b03",
- "size": 581841,
+ "v": 29903443,
+ "zip": "myapp-update-29903443.zip",
+ "sha256": "d220ae277a973886ac67ba8eb4c3b6e2db2f1824ac407e97d5dbc81284a06780",
+ "sig": "3e8559ba69589b3fc2c01914cb2fab854fc63c8ccf6b019d274ab8cac1222acd9d9d53b88d29c360ffd0c582060764f677513db3697a3ef0b87e95a6bf815f0b",
+ "size": 581995,
  "minApk": 0,
- "notes": "Marks back to how the Admin app shows them; Students app matches Admin on every page",
+ "notes": "This semester shows only courses with a course code; app lock asks for the password as soon as the app opens; class chat says why if you can't send yet",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
