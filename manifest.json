@@ -1,11 +1,11 @@
 {
- "v": 29903443,
- "zip": "myapp-update-29903443.zip",
- "sha256": "d220ae277a973886ac67ba8eb4c3b6e2db2f1824ac407e97d5dbc81284a06780",
- "sig": "3e8559ba69589b3fc2c01914cb2fab854fc63c8ccf6b019d274ab8cac1222acd9d9d53b88d29c360ffd0c582060764f677513db3697a3ef0b87e95a6bf815f0b",
- "size": 581995,
+ "v": 29903445,
+ "zip": "myapp-update-29903445.zip",
+ "sha256": "04648a625c53dd3d289de43473a74ae7e87dbd2e01c23e86ac6a00d3496d2f23",
+ "sig": "2d8e07f60b7e7fea0b0307c51eee3230f6d6267166d9753b83df9ee2abf0571515063bb084d5b1ea1b8bfec7ec86e54e1ee22211925744e409424c7bee688605",
+ "size": 582055,
  "minApk": 0,
- "notes": "This semester shows only courses with a course code; app lock asks for the password as soon as the app opens; class chat says why if you can't send yet",
+ "notes": "Class chat says why if you can't send yet",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
