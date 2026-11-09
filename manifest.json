@@ -1,11 +1,11 @@
 {
- "v": 29903445,
- "zip": "myapp-update-29903445.zip",
- "sha256": "04648a625c53dd3d289de43473a74ae7e87dbd2e01c23e86ac6a00d3496d2f23",
- "sig": "2d8e07f60b7e7fea0b0307c51eee3230f6d6267166d9753b83df9ee2abf0571515063bb084d5b1ea1b8bfec7ec86e54e1ee22211925744e409424c7bee688605",
- "size": 582055,
+ "v": 29903489,
+ "zip": "myapp-update-29903489.zip",
+ "sha256": "efb2a199857386698a084db39c3a5e980273ed4fda6a6aae59f61bf33ca32f91",
+ "sig": "a87d0e877fa237b2f31eea1e606b631942a7c1c6859a8da7f46da772c078909e9f571945702a1589fb1bdef231c6b21e7e995f77cd5ad77ef7bb6e8c057d430c",
+ "size": 582240,
  "minApk": 0,
- "notes": "Class chat says why if you can't send yet",
+ "notes": "Old semesters' marks are never lost in a sync; no class reminders on college holidays; class chat open to every student",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
