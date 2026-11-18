@@ -1,11 +1,11 @@
 {
- "v": 29916881,
- "zip": "myapp-update-29916881.zip",
- "sha256": "0365e581b30889f42f0a8a99dcaeb821de137b782ba6b29e7401ec09409d58f0",
- "sig": "7c984f83e89b8b9e8aece0aced1419738e9a73ad48d9701c7edb51a7bdeb0a8b6568fcaab1e54d2e3677fe398f53b0b8dae8945c06a6c953e40f27a610203605",
- "size": 584807,
+ "v": 29916888,
+ "zip": "myapp-update-29916888.zip",
+ "sha256": "65ae40d6dc50c754c59c9c72606dcad33fd316840ff7c6bb75ce9a14b8699ed1",
+ "sig": "09f8d440fd6d08103c47b643db5134ed10695452a7f947cc4582de09515a9fa20a939be1b2528e11f8c7404511811e95b5d8a1375e208bd6ec041b2ff12c600e",
+ "size": 585424,
  "minApk": 0,
- "notes": "Marks and Grades: this semester shows only its real courses, even if AUMS mixed up semesters",
+ "notes": "AUMS marks: each semester is read only after its page has loaded, and filed by its course codes (slow phones mixed them up)",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
