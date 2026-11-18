@@ -1,11 +1,11 @@
 {
- "v": 29903489,
- "zip": "myapp-update-29903489.zip",
- "sha256": "efb2a199857386698a084db39c3a5e980273ed4fda6a6aae59f61bf33ca32f91",
- "sig": "a87d0e877fa237b2f31eea1e606b631942a7c1c6859a8da7f46da772c078909e9f571945702a1589fb1bdef231c6b21e7e995f77cd5ad77ef7bb6e8c057d430c",
- "size": 582240,
+ "v": 29916847,
+ "zip": "myapp-update-29916847.zip",
+ "sha256": "bcc298cc5a665648ea704e128c7105fa2fe2b0c6bb2acfb29ff6d74eda8abc75",
+ "sig": "ccb18e21b43d5e41d7054913aaf7f6b462993ede5e4c60d24e6a9068fedd200fbe37d49ec64249958c2f089b1fb86608d46988eaeb49970785f741740c589a0e",
+ "size": 583775,
  "minApk": 0,
- "notes": "Old semesters' marks are never lost in a sync; no class reminders on college holidays; class chat open to every student",
+ "notes": "Attendance never shows an older semester; Sync now buttons for myAmrita and AUMS on the Updates page; new data shows without reopening; Log out completely",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
