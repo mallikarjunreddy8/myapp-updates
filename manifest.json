@@ -1,11 +1,11 @@
 {
- "v": 29916855,
- "zip": "myapp-update-29916855.zip",
- "sha256": "3f69c9a0541efafd45f3e9394ca3974f4e286aa55275827bb59a0ed747d356ed",
- "sig": "c016eddbcc45455ef9ae483b1c6e06ba23d6ca7fd665052d8ff8e5915919ce36001fad86fcaa0f45ac742223bc5879faadffb3cf263b6c39eefa011fcc7adb0d",
- "size": 584141,
+ "v": 29916867,
+ "zip": "myapp-update-29916867.zip",
+ "sha256": "33133654149023e1f5c70731f5b065f438277c5a5203c9303939b69c835c4e23",
+ "sig": "0d800f83a495334fbd7c7a04432e78fdeeb0e06a6b89c1b3ae4f0e164a3cb26e019de85e47eea409334f92b899101081afea393e2696fa488f3c76a1c9d64705",
+ "size": 584142,
  "minApk": 0,
- "notes": "Updates and calendar now download on any network (college Wi-Fi blocked them)",
+ "notes": "Marks shows only this semester's subjects",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
