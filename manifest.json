@@ -1,11 +1,11 @@
 {
- "v": 29916867,
- "zip": "myapp-update-29916867.zip",
- "sha256": "33133654149023e1f5c70731f5b065f438277c5a5203c9303939b69c835c4e23",
- "sig": "0d800f83a495334fbd7c7a04432e78fdeeb0e06a6b89c1b3ae4f0e164a3cb26e019de85e47eea409334f92b899101081afea393e2696fa488f3c76a1c9d64705",
- "size": 584142,
+ "v": 29916877,
+ "zip": "myapp-update-29916877.zip",
+ "sha256": "20c746ddf3a70d73db5bb01c36f15ad70046f181294ed001a8aeb0f650f447d5",
+ "sig": "49817a4c3dcf08469c6cd1dec90d0c796d3e775565d86f1a5fb66f21fcac7bb953d267b292897d3e69744ea2b5c55a75cf87f4f85039df7d619de4195362ba05",
+ "size": 584472,
  "minApk": 0,
- "notes": "Marks shows only this semester's subjects",
+ "notes": "Marks always shows only this semester (worked out from your batch and today's date); attendance warns if it's from an older term",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
