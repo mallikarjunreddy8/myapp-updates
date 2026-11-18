@@ -1,11 +1,11 @@
 {
- "v": 29916847,
- "zip": "myapp-update-29916847.zip",
- "sha256": "bcc298cc5a665648ea704e128c7105fa2fe2b0c6bb2acfb29ff6d74eda8abc75",
- "sig": "ccb18e21b43d5e41d7054913aaf7f6b462993ede5e4c60d24e6a9068fedd200fbe37d49ec64249958c2f089b1fb86608d46988eaeb49970785f741740c589a0e",
- "size": 583775,
+ "v": 29916855,
+ "zip": "myapp-update-29916855.zip",
+ "sha256": "3f69c9a0541efafd45f3e9394ca3974f4e286aa55275827bb59a0ed747d356ed",
+ "sig": "c016eddbcc45455ef9ae483b1c6e06ba23d6ca7fd665052d8ff8e5915919ce36001fad86fcaa0f45ac742223bc5879faadffb3cf263b6c39eefa011fcc7adb0d",
+ "size": 584141,
  "minApk": 0,
- "notes": "Attendance never shows an older semester; Sync now buttons for myAmrita and AUMS on the Updates page; new data shows without reopening; Log out completely",
+ "notes": "Updates and calendar now download on any network (college Wi-Fi blocked them)",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
