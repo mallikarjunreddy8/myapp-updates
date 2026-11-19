@@ -1,11 +1,11 @@
 {
- "v": 29917788,
- "zip": "myapp-update-29917788.zip",
- "sha256": "0acc18641d6a9a414116bf67ebdb14b66106fd0d53b4a2294498c90ddbf963c4",
- "sig": "7aa75d2de60f3baa5e6c61c2bde61505a08feba3560a039c1b91193cc439f8ee1f6b23cfd1569c1ec9d411108ce3881c1bb5a8f98818d3e1974d0bc7cb94370d",
- "size": 585949,
+ "v": 29917806,
+ "zip": "myapp-update-29917806.zip",
+ "sha256": "c069dd9238763797de8b1f36cf923a8e35441baefff914eaeaed021f74b61b59",
+ "sig": "9cc5a4ae25b1c4c3175da84573f17d47e3940c033cea38a3a2909362a73a6c54d78a2ac638c54abd91f1c6688b2b32a9ed7ce5db528d5e28a37c0896535c370f",
+ "size": 588305,
  "minApk": 0,
- "notes": "Admin: syncs myAmrita and AUMS as soon as the app opens; admin-first update channel",
+ "notes": "Class removed from the Students app; syncs myAmrita and AUMS when the app opens and with the Sync button; always this semester's Today, Marks, Attendance and Profile",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
