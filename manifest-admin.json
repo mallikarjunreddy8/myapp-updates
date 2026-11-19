@@ -1,11 +1,11 @@
 {
- "v": 29917799,
- "zip": "myapp-update-29917799.zip",
- "sha256": "483cfbacecaada5bc18a9fcc6bd0064623197067f54778ee8ab1abbcbf2cb500",
- "sig": "de933c7fc0bdc7e574ac26312159ebe8c307e4e1a2d5e0cb40fbd93e49b6e72b37c6ab850fad66b5f0614b87aa7cfa30815f182911060173f60305561341400d",
- "size": 588347,
+ "v": 29917800,
+ "zip": "myapp-update-29917800.zip",
+ "sha256": "ec074e59a7a6cb79db84b9344b7999a5e1b404cfb1e9b52d37733f8fb82a3ac4",
+ "sig": "a6287e9000e28ab72eceb5f268e105ec5d8740589a126521d556a0cebefb0b4a2adff9b16f438c78e83cdf7a6bcb685f930243a879b83e3dbc0748f93c8aae07",
+ "size": 588506,
  "minApk": 0,
- "notes": "Fixes stuck semester: sync waits for myAmrita's semester list; Today, Marks, Attendance and Profile only ever show this semester",
+ "notes": "Sync always loads your current semester from myAmrita (switches it if myAmrita opens an older one); Today, Marks, Attendance and Profile show only this semester",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
