@@ -1,11 +1,11 @@
 {
- "v": 29917790,
- "zip": "myapp-update-29917790.zip",
- "sha256": "25fa2e1cbe1e69e2837c0e42208dd70754b772741649b0bf0dae6c2a56cd4d8c",
- "sig": "7e134d9650f8b485cc2e0eab127dea736ff21c48c2a373c9b8a74eaa7f55ebede20c8a7010c42a685b03c6c6b8c76aaa3770eb6df460a2fd721a076602b74d03",
- "size": 586276,
+ "v": 29917792,
+ "zip": "myapp-update-29917792.zip",
+ "sha256": "22f1973ddae115099ee5fc0b7d47f90ba9c0116c8c68f03c448fa57337f3bbe7",
+ "sig": "741e5a220b6d59eea23d23d9939e7d53f5e5ef9f6aa897a99d0afe9a5f7b56d20b4254d26390694ed9bf8e706966dcc62d81cbfa412bba9116d6c46b7372610b",
+ "size": 586802,
  "minApk": 0,
- "notes": "Install list: test entries hidden, one row per student (plus sync on open)",
+ "notes": "Sync on open starts within seconds and shows a note: syncing, synced, or what went wrong",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
