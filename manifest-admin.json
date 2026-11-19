@@ -1,11 +1,11 @@
 {
- "v": 29917794,
- "zip": "myapp-update-29917794.zip",
- "sha256": "ac6509910e3b807685c523b737bb224439518bc2b26234c39b8788327138602f",
- "sig": "d8165265dd707aea9736da459793326b0cc82c3658449b69006bdb4cb3d376b1b05f80f845a75cc4fb9574ed7c22625d512665be916a05dcfa9b57111443a000",
- "size": 587392,
+ "v": 29917799,
+ "zip": "myapp-update-29917799.zip",
+ "sha256": "483cfbacecaada5bc18a9fcc6bd0064623197067f54778ee8ab1abbcbf2cb500",
+ "sig": "de933c7fc0bdc7e574ac26312159ebe8c307e4e1a2d5e0cb40fbd93e49b6e72b37c6ab850fad66b5f0614b87aa7cfa30815f182911060173f60305561341400d",
+ "size": 588347,
  "minApk": 0,
- "notes": "Sync button at the top: one tap syncs myAmrita and AUMS",
+ "notes": "Fixes stuck semester: sync waits for myAmrita's semester list; Today, Marks, Attendance and Profile only ever show this semester",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
