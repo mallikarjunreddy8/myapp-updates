@@ -5,7 +5,7 @@
  "sig": "7aa75d2de60f3baa5e6c61c2bde61505a08feba3560a039c1b91193cc439f8ee1f6b23cfd1569c1ec9d411108ce3881c1bb5a8f98818d3e1974d0bc7cb94370d",
  "size": 585949,
  "minApk": 0,
- "notes": "\"Admin:",
+ "notes": "Admin: syncs myAmrita and AUMS as soon as the app opens; admin-first update channel",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
