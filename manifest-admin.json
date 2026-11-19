@@ -1,0 +1,12 @@
+{
+ "v": 29917790,
+ "zip": "myapp-update-29917790.zip",
+ "sha256": "25fa2e1cbe1e69e2837c0e42208dd70754b772741649b0bf0dae6c2a56cd4d8c",
+ "sig": "7e134d9650f8b485cc2e0eab127dea736ff21c48c2a373c9b8a74eaa7f55ebede20c8a7010c42a685b03c6c6b8c76aaa3770eb6df460a2fd721a076602b74d03",
+ "size": 586276,
+ "minApk": 0,
+ "notes": "\"Install",
+ "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
+ "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
+ "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
+}
