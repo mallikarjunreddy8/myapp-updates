@@ -1,11 +1,11 @@
 {
- "v": 29917770,
- "zip": "myapp-update-29917770.zip",
- "sha256": "05341689513368eaef26cb04e2af75928c985a7ac924ca7ae664c951ffea95e6",
- "sig": "e2c2e23b4aab62d19f7d71c12a5bc8765a416489ebbfca66b2b42bb714ea9e825306084a9aee7e20c490f7423516b8db9c6f79f2452140b5157f21e521f85c03",
- "size": 585798,
+ "v": 29917779,
+ "zip": "myapp-update-29917779.zip",
+ "sha256": "045c0343f933bdf993bc91d3f0d19a85b81b218ba0ac79bf4b8da471bd889dd7",
+ "sig": "92c679e6bffd6dc629e92f9c5dbae0c60f8c048eb465a07889c1e23bcf8abd55fb28c7ff6aed8ce562d601411d0b962613ad6c72c906fc90b4a01f0124ee030f",
+ "size": 585656,
  "minApk": 0,
- "notes": "Admin: attendance % leaves medical leave out of the total",
+ "notes": "Attendance % leaves medical leave out of the total in every app; Marks shows only this semester's subjects; AUMS marks filed by course codes; attendance never from an older term",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
