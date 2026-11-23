@@ -1,0 +1,24 @@
+# Puts the newest Students Portal APK on a GitHub Release, every time the APK in this repo changes.
+# Why: some networks (college Wi-Fi) block raw.githubusercontent.com, but Release downloads still work there.
+# The app's "Download the new app" link points to:
+#   https://github.com/mallikarjunreddy8/myapp-updates/releases/download/students-latest/Amrita-BTech-Classmates.apk
+name: Students APK release
+on:
+  push:
+    paths: ["Amrita-BTech-Classmates.apk", "CR-Portal.apk", ".github/workflows/apk-release.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace the release with the newest APKs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete students-latest --yes --cleanup-tag || true
+          gh release create students-latest Amrita-BTech-Classmates.apk CR-Portal.apk \
+            --title "Students Portal (latest)" \
+            --notes "The newest Students Portal app. Install it over the old one: your data is kept." --latest
