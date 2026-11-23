@@ -1,11 +1,11 @@
 {
- "v": 29917806,
- "zip": "myapp-update-29917806.zip",
- "sha256": "c069dd9238763797de8b1f36cf923a8e35441baefff914eaeaed021f74b61b59",
- "sig": "9cc5a4ae25b1c4c3175da84573f17d47e3940c033cea38a3a2909362a73a6c54d78a2ac638c54abd91f1c6688b2b32a9ed7ce5db528d5e28a37c0896535c370f",
- "size": 588305,
- "minApk": 0,
- "notes": "Class removed from the Students app; syncs myAmrita and AUMS when the app opens and with the Sync button; always this semester's Today, Marks, Attendance and Profile",
+ "v": 29923637,
+ "zip": "myapp-update-29923637.zip",
+ "sha256": "de99011a750f44887a4b8d590e435766ce0ef7bbb312381bb58f7d65a16da9c5",
+ "sig": "cef125b7f3a4e572c0555db48e1f59733641e322b35ae745f03fc91e650523bcc0e92ecaae08e6aee8add451faea0f065ae948205e68cb3a5ce2cdaf2ff52b04",
+ "size": 589285,
+ "minApk": 29923631,
+ "notes": "Fixes 'Please use Chrome or Safari' on myAmrita/AUMS sign-in: download the new app (your data is kept)",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
