@@ -6,7 +6,7 @@
  "size": 589565,
  "minApk": 29923631,
  "notes": "Faster sync: about 15 seconds instead of minutes; Chrome sign-in fix",
- "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
+ "apk": "https://github.com/mallikarjunreddy8/myapp-updates/releases/download/students-latest/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
- "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
+ "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/releases/download/students-latest/CR-Portal.apk"
 }
