@@ -1,11 +1,11 @@
 {
- "v": 29923567,
- "zip": "myapp-update-29923567.zip",
- "sha256": "34d5d1632010083bc884032e75b87b7585dcd01ea4652b1c2775645ba1946d5a",
- "sig": "85ccc1969074a383344ef977d176a7ac72217b2b3b61a2d3e7dc31173e9eea0b5dac29b42422aa27b13ce577d37a56a327ad4ad08965e6f85f14559dbfa01f0f",
- "size": 589285,
- "minApk": 0,
- "notes": "Admin key changed: if your phone has the old key, the Admin page asks for the new one",
+ "v": 29923640,
+ "zip": "myapp-update-29923640.zip",
+ "sha256": "534ff400ca25211f0e58b1ec3218236cad7dee10c5cf9f97610ba959eff89d9b",
+ "sig": "1be6794235024d5d8e4748ce4e3b96514746edd4331f418a0ed32160cc309e125645022d88e63cec1252c1a25868437b1277e79e1bdb344b7f03c058044a2505",
+ "size": 589565,
+ "minApk": 29923631,
+ "notes": "Faster sync: about 15 seconds instead of minutes (reads each page as soon as its table is there)",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
