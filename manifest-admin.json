@@ -1,11 +1,11 @@
 {
- "v": 29923549,
- "zip": "myapp-update-29923549.zip",
- "sha256": "90cb5b5a9e41f4ea861dd69c8ae810db1d953c4d12b1175436f2a886e0f0f6d6",
- "sig": "2fe9e4c4abdbb59f3fee89347338d5e116183dcb0507b7db1f596a837aaaf1197020daab25c81eef438e5308108a6769e7e6b4781244c6521401c05e6c32750c",
- "size": 588890,
+ "v": 29923567,
+ "zip": "myapp-update-29923567.zip",
+ "sha256": "34d5d1632010083bc884032e75b87b7585dcd01ea4652b1c2775645ba1946d5a",
+ "sig": "85ccc1969074a383344ef977d176a7ac72217b2b3b61a2d3e7dc31173e9eea0b5dac29b42422aa27b13ce577d37a56a327ad4ad08965e6f85f14559dbfa01f0f",
+ "size": 589285,
  "minApk": 0,
- "notes": "Admin: publish calendar and exams from the phone. If the admin key isn't on this phone yet, the Admin page asks for it at the top (checked before saving)",
+ "notes": "Admin key changed: if your phone has the old key, the Admin page asks for the new one",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
