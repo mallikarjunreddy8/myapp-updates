@@ -1,11 +1,11 @@
 {
- "v": 29923637,
- "zip": "myapp-update-29923637.zip",
- "sha256": "de99011a750f44887a4b8d590e435766ce0ef7bbb312381bb58f7d65a16da9c5",
- "sig": "cef125b7f3a4e572c0555db48e1f59733641e322b35ae745f03fc91e650523bcc0e92ecaae08e6aee8add451faea0f065ae948205e68cb3a5ce2cdaf2ff52b04",
- "size": 589285,
+ "v": 29923641,
+ "zip": "myapp-update-29923641.zip",
+ "sha256": "791e6f516e3b32d271b3f684f0a12ad8a202ee44f12dce14c9b70336c32212fd",
+ "sig": "c01602e3186fbd6914d686d0c0e8fb793cd17d8cac9aedcaef75df071be9c1902d9621606dd18d9e53756c7553a850a0391714f1a8b970a2c94970cb77518f0c",
+ "size": 589565,
  "minApk": 29923631,
- "notes": "Fixes 'Please use Chrome or Safari' on myAmrita/AUMS sign-in: download the new app (your data is kept)",
+ "notes": "Faster sync: about 15 seconds instead of minutes; Chrome sign-in fix",
  "apk": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/Amrita-BTech-Classmates.apk",
  "apkPersonal": "https://github.com/mallikarjunreddy8/myapp-private/raw/main/My-App.apk",
  "apkCR": "https://github.com/mallikarjunreddy8/myapp-updates/raw/main/CR-Portal.apk"
